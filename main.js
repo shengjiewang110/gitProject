@@ -1,4 +1,4 @@
 function change(){
-       alert("169");
+       alert("你好");
 
 }
