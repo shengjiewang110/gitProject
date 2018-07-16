@@ -1,4 +1,4 @@
 function change(){
-       alert("1z22");
+       alert("1z226");
 
 }
