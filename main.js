@@ -1,4 +1,4 @@
 function change(){
-       alert("你好");
+       alert("0好");
 
 }
